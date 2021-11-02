@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/university/android/_projects/My_Dictionary/app/src/main/res/drawable/meaning_item.xml" value="0.1" />
+        <entry key="..\:/university/android/_projects/My_Dictionary/app/src/main/res/drawable/volm.xml" value="0.10185185185185185" />
         <entry key="..\:/university/android/_projects/My_Dictionary/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/university/android/_projects/My_Dictionary/app/src/main/res/layout/defination_list.xml" value="0.2" />
+        <entry key="..\:/university/android/_projects/My_Dictionary/app/src/main/res/layout/meanign_list.xml" value="0.1787037037037037" />
+        <entry key="..\:/university/android/_projects/My_Dictionary/app/src/main/res/layout/meaning_list.xml" value="0.176" />
         <entry key="..\:/university/android/_projects/My_Dictionary/app/src/main/res/layout/phon_list_items.xml" value="0.176" />
       </map>
     </option>
