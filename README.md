@@ -1,3 +1,6 @@
+API: https://dictionaryapi.dev/
+
+
 Images:
 
 
