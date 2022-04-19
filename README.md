@@ -4,9 +4,9 @@ API: https://dictionaryapi.dev/
 Images:
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/91980956/143039481-e418c9c7-cd26-4d8b-b025-bfe45b19af3f.jpg" width="200" height="400" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/91980956/143039481-e418c9c7-cd26-4d8b-b025-bfe45b19af3f.jpg" width="300" height="600" /></p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/91980956/141682978-f3d952a7-1439-48de-bc4c-aa655bf24b59.jpg" width="200" height="400" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/91980956/141682978-f3d952a7-1439-48de-bc4c-aa655bf24b59.jpg" width="300" height="600" /></p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/91980956/142732763-e977cdc2-61bb-401c-a38c-71aebe4a7e59.jpg" width="200" height="400" /></p>
 
